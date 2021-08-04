@@ -5,9 +5,7 @@
 //   reverse('apple') === 'leppa'
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
-// reverse()
-// for(of)
-// reduce
+
 
 function reverse(str) {
 
