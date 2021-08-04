@@ -4,11 +4,11 @@
   "description": "Good Luck!",
   "main": "index.js",
   "scripts": {
-    "test:fizzbuzz": "jest --watch exercises/fizzbuzz",
-    "test:reversestring": "jest --watch exercises/reversestring",
-    "test:fib": "jest --watch exercises/fib",
-    "test:chunk": "jest --watch exercises/chunk",
-    "test:queue": "jest --watch exercises/queue"
+    "test:fizzbuzz": "jest exercises/fizzbuzz",
+    "test:reversestring": "jest exercises/reversestring",
+    "test:fib": "jest exercises/fib",
+    "test:chunk": "jest exercises/chunk",
+    "test:queue": "jest exercises/queue"
   },
   "jest": {
     "testEnvironment": "node"
